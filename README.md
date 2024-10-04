@@ -15,6 +15,10 @@ I have experience working with the following technologies and tools:
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+<span style="background-color: #e0e0e0; padding: 10px; border-radius: 10px; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <span style="font-weight: bold; padding-left: 5px;">Laravel Auth API Standard</span>
+</span>
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
