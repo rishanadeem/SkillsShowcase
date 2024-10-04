@@ -4,7 +4,8 @@ Hello! I'm **Risha Nadeem**, a passionate full-stack developer with a keen inter
 
 This repository serves as a showcase of my skills and projects, ranging from front-end to back-end development, cloud services, and more. I am continuously learning and expanding my knowledge to stay up to date with the latest technologies.
 
-## Skills 💻
+## Skills 💻  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="20" height="20" style="vertical-align: middle;"/> 
+
 
 I have experience working with the following technologies and tools:
 
