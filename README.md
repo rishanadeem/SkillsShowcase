@@ -62,6 +62,6 @@ I am always open to new opportunities and collaborations, so feel free to reach 
 
 - **Email**: [(rishanadeem35@gmail.com)
 - **LinkedIn**: [(risha-nadeem-974366291/)
-- **GitHub**: [(github.com/rishanadeem)
+- **GitHub**: [(https://github.com/rishanadeem)
 
 Thanks for visiting my profile, and I look forward to connecting with you!
