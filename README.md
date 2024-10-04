@@ -17,6 +17,10 @@ I have experience working with the following technologies and tools:
   &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <span style="font-weight: bold;">API Integration</span>
+  &nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
