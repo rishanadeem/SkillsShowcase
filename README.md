@@ -3,24 +3,7 @@
 Hello! I'm **Risha Nadeem**, a passionate full-stack developer with a keen interest in building scalable and efficient web applications. My journey in software development started with a curiosity for technology, and it has led me to explore various programming languages, frameworks, and tools.
 
 This repository serves as a showcase of my skills and projects, ranging from front-end to back-end development, cloud services, and more. I am continuously learning and expanding my knowledge to stay up to date with the latest technologies.
-## Skills 💻 
-<span style="font-family: monospace; display: inline-block; animation: blink 1s infinite alternate, move 2s infinite alternate;">
-
-  &lt;/&gt;
-
-  <style>
-    @keyframes blink {
-      0% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-
-    @keyframes move {
-      0% { transform: translateY(0); }
-      100% { transform: translateY(-5px); }
-    }
-  </style>
-</span>
-
+## Skills 💻 <span class="icon-animation">&lt;/&gt;</span>
 
 
 I have experience working with the following technologies and tools:
