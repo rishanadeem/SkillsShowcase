@@ -15,7 +15,7 @@ I have experience working with the following technologies and tools:
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Adobe_Photoshop_CC_icon.svg/2048px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
 
