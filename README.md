@@ -43,7 +43,7 @@ I have experience working with the following technologies and tools:
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" alt="CorelDraw" width="40" height="40"/>
+
 </p>
 
 ## Amazon Influencer and Affiliate Programs
