@@ -62,7 +62,7 @@ I am always open to new opportunities and collaborations, so feel free to reach 
 ## Get in Touch 📧
 
 - **Email**: [your-email@example.com](rishanadeem35@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/risha-nadeem-974366291/)
-- **GitHub**: [Your GitHub Profile](https://github.com/rishanadeem)
+- **LinkedIn**: [Your LinkedIn Profile](risha-nadeem-974366291/)
+- **GitHub**: [Your GitHub Profile](github.com/rishanadeem)
 
 Thanks for visiting my profile, and I look forward to connecting with you!
