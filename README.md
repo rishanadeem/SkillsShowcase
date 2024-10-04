@@ -60,7 +60,7 @@ I am always open to new opportunities and collaborations, so feel free to reach 
 
 ## Get in Touch 📧
 
-- **Email**: rishanadeem35@gmail.com
+- **Email**: rishanadeem579@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/risha-nadeem-974366291/
 - **GitHub**: https://github.com/rishanadeem
 
