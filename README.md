@@ -42,9 +42,8 @@ I have experience working with the following technologies and tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-<span style="background-color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-</span>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
